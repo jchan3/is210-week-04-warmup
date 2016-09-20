@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This module is task_04."""
+"""This module is for the function too_many_kittens."""
 
 
 def too_many_kittens(kittens, litterboxes, catfood):
